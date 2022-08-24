@@ -1,0 +1,19 @@
+{
+  "name": "e2land",
+  "version": "1.0.0",
+  "description": "e2.land",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeheuze/e2land.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeheuze/e2land/issues"
+  },
+  "homepage": "https://github.com/jeromeheuze/e2land#readme"
+}
