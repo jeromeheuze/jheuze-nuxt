@@ -97,9 +97,9 @@ export default {
             { rel: 'preconnect', href: 'https://cdn.jsdelivr.net' },
             { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
             { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
-            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:700' },
-            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Muli' },
-            { rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' }
+            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i' },
+            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Varela+Round' },
+            { rel: 'stylesheet', href: '/css/flexboxgrid.min.css' }
         ]
     },
     script: [
