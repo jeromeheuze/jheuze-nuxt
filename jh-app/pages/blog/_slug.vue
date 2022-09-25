@@ -88,4 +88,33 @@ export default {
 .nuxt-content p {
   margin-bottom: 20px;
 }
+/* Code blocks */
+pre {
+  padding: 1em;
+  margin: .5em 0;
+  overflow: auto;
+  background: #f5f2f0;
+}
+
+code,
+pre {
+  color: black;
+  background: none;
+  text-shadow: 0 1px white;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 1em;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  hyphens: none;
+}
 </style>
