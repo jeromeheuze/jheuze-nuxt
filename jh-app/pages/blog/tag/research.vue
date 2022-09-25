@@ -11,15 +11,15 @@
       </header>
       <section class="container">
         <div class="crumbs"><nuxt-link to="/blog/">Blog</nuxt-link>&nbsp;&bull;&nbsp; Research Posts</div>
-        <ul>
+        <ul class="blog-list">
           <li v-for="article of articles" :key="article.slug">
-            <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
-              <div>
-                <h2>{{ article.title }}</h2>
-                <p>by Jerome Heuze</p>
-                <p>{{ article.description }}</p>
-              </div>
-            </NuxtLink>
+
+            <div>
+              <h2><NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">{{ article.title }}</NuxtLink></h2>
+              <p>by Jerome Heuze</p>
+              <p>{{ article.description }}</p>
+            </div>
+
           </li>
         </ul>
       </section>
