@@ -50,6 +50,107 @@ header {
       border: 0;
     }
   }
+  &.mastheadblog {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 10rem;
+    padding: 3.5rem 0 5rem 0;
+    background: #1a104d;
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(26,16,77,0)),to(#0d0540));
+    background: linear-gradient(180deg,rgba(26,16,77,0) 0,#0d0540 100%);
+    background-size: cover;
+    &.format-webp {
+      background-image: url("/img/forest_01.jpg");
+    }
+    &.posts {
+      h1 {
+        font-size: 2rem;
+        line-height: 3rem;
+        letter-spacing: normal;
+      }
+      h2 {
+        text-align: left;
+        margin: 1rem 0 1rem 0;
+      }
+      p {
+        color: beige;
+      }
+    }
+    h1 {
+      font-family: 'Varela Round',serif;
+      font-size: 6.5rem;
+      line-height: 6.5rem;
+      letter-spacing: .8rem;
+      background: -webkit-linear-gradient(rgba(255,255,255,.9),rgba(255,255,255,0));
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+    }
+    h2 {
+      text-align: center;
+      font-size: 1.25rem;
+      color: #fff;
+      margin: 2rem 0 3rem 0;
+    }
+  }
+}
+
+.crumbs {
+  padding: 1rem 0;
+}
+.prevnext {
+  padding: 1rem 0;
+}
+.tags {
+  padding: 1rem 0;
+  a {
+    color: beige;
+    margin-right: 0.5rem;
+    text-align: center;
+    &:hover {
+      span {
+        background-color: darkcyan;
+      }
+    }
+    span {
+      text-align: center;
+      background-color: #64a19d;
+      padding: 0.1rem 0.25rem;
+      border-radius: 3px;
+    }
+  }
+}
+.blog-list {
+  margin: 3rem 0;
+  li {
+    div {
+      padding: 1rem 0;
+      h2 {
+        font-size: 2rem;
+      }
+      p {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+
+.nuxt-content {
+  margin: 3rem 0;
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+  }
+  strong {
+    font-weight: bold;
+  }
+  ul {
+    margin: 1rem 0 1rem 2rem;
+    list-style-type: disc;
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
 }
 
 .d-flex {

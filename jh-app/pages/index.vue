@@ -125,6 +125,28 @@
             </div>
           </div>
 
+          <!-- Project 4 Row -->
+          <div class="row justify-content-center no-gutters mb-pro">
+            <div class="col-lg-6">
+              <nuxt-link to="/codester/"><img class="img-fluid" src="/img/bg-mashweb.jpg" alt=""></nuxt-link>
+            </div>
+            <div class="col-lg-6 order-lg-first">
+              <div class="featured-text text-center h-100 project">
+                <div class="d-flex h-100">
+                  <div class="project-text w-100 my-auto text-center text-lg-right">
+                    <h4 class="text-white">Templates for Sale</h4>
+                    <p class="mb-0 text-white-50">
+                      Purchase them by visiting each url:
+                    </p>
+                    <ul>
+                      <li><a href="/codester/template-404/" target="_blank">Templates 404</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </section>
       <Footer/>
