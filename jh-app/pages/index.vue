@@ -126,7 +126,7 @@
           </div>
 
           <!-- Project 4 Row -->
-          <div class="row justify-content-center no-gutters mb-pro">
+          <div class="row justify-content-center no-gutters mb-pro" style="display: none">
             <div class="col-lg-6">
               <nuxt-link to="/codester/"><img class="img-fluid" src="/img/bg-mashweb.jpg" alt=""></nuxt-link>
             </div>
