@@ -145,7 +145,7 @@ export default {
             },
         ],
         '@nuxt/content',
-        ['nuxt-canonical', { baseUrl: 'https://e2.land',trailingSlashes: true,forceLowercase: true }]
+        ['nuxt-canonical', { baseUrl: 'https://jeromeheuze.com',trailingSlashes: true,forceLowercase: true }]
     ],
     //robots.txt
     robots: {
@@ -168,7 +168,7 @@ export default {
     },
     //Sitemap config
     sitemap: {
-        hostname: 'https://e2.land',
+        hostname: 'https://jeromeheuze.com',
         defaults: {
             changefreq: 'daily',
             priority: 1,
