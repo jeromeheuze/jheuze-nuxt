@@ -139,7 +139,7 @@
                       Purchase them by visiting each url:
                     </p>
                     <ul>
-                      <li><a href="/codester/template-404/" target="_blank">Templates 404</a></li>
+                      <li><a href="/codester/ui-yellowcake/" target="_blank">YellowCake UI Theme - UI kit for sale</a></li>
                     </ul>
                   </div>
                 </div>
