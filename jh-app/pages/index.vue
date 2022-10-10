@@ -139,7 +139,7 @@
                       Purchase them by visiting each url:
                     </p>
                     <ul>
-                      <li><a href="/codester/ui-yellowcake/" target="_blank">YellowCake UI Theme - UI kit for sale</a></li>
+                      <li><a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a> <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link></li>
                     </ul>
                   </div>
                 </div>
