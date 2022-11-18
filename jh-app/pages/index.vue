@@ -30,7 +30,7 @@
               <div class="featured-text text-center text-lg-left">
                 <h4>Web Properties</h4>
                 <p class="text-black-50 mb-0">I maintain and own several websites as follows:</p>
-                <ul>
+                <ul style="margin-top: 1rem;">
                   <li><a href="https://heuzeproductions.com/" target="_blank">Heuze Productions</a> (Indie Game Studio)</li>
                   <li><a href="https://e2production.com/" target="_blank">E2Production - Virtual businesses in Earth2.io</a></li>
                   <li><a href="https://thesustainabledentist.com/" target="_blank">The Sustainable Dentist</a></li>
@@ -39,7 +39,7 @@
                 </ul>
                 <h4>Virtual Estates &amp; Digital Investments</h4>
                 <p class="text-black-50 mb-0">I own in-game estates as investment:</p>
-                <ul>
+                <ul style="margin-top: 1rem;">
                   <li><a href="https://www.entropiauniverse.com" target="_blank">Entropia Universe</a> – the Sci-Fi MMORPG, Multi-World, Real Cash Economy Experience.</li>
                   <li><a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">Earth 2</a> - 7.5% promo code - e2prod</li>
                 </ul>
@@ -58,7 +58,7 @@
                   <div class="project-text w-100 my-auto text-center text-lg-left">
                     <h4 class="text-white">Indie Video Games Portfolio</h4>
                     <p class="text-black-50">My game projects:</p>
-                    <ul>
+                    <ul style="margin-top: 1rem;">
                       <li><a target="_blank" href="https://heuzeproductions.itch.io/treasure-flip-halloween-edition">Treasure Flip: Halloween Edition</a></li>
                     </ul>
                   </div>
@@ -98,7 +98,7 @@
                     <p class="mb-0 text-white-50">
                       <a target="_blank" href="https://sedo.com/search/?member=a715c85c5f07456a827402a6dc38dec09a0ce556">Purchase them by visiting each url:</a>
                     </p>
-                    <ul>
+                    <ul style="margin-top: 1rem;">
                       <li><a target="_blank" href="https://sedo.com/search/details/?domain=24hlessons.com&origin=domaindetails">24hlessons.com</a></li>
                       <li><a target="_blank" href="https://sedo.com/search/details/?domain=avatarkyc.com&origin=domaindetails">avatarkyc.com</a></li>
                       <li><a target="_blank" href="https://sedo.com/search/details/?domain=satoshicrate.com&origin=domaindetails">satoshicrate.com</a></li>
@@ -138,8 +138,15 @@
                     <p class="mb-0 text-white-50">
                       Purchase them by visiting each url:
                     </p>
-                    <ul>
-                      <li><a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a> <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link></li>
+                    <ul style="margin-top: 1rem;">
+                      <li>
+                        <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a>
+                        &bull; <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link>
+                      </li>
+                      <li>
+                        <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">Button Set - CSS3 and SVG for sale</a>
+                        &bull; <nuxt-link to="/codester/button-set-css3-and-svg/">Preview</nuxt-link>
+                      </li>
                     </ul>
                   </div>
                 </div>
