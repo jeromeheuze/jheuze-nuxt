@@ -44,7 +44,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'Follow my articles where I share my personal work, passions and tips for web development.'
+          content: 'Follow my blog where I share my personal work, passions and tips for web development.'
         }
       ],
       style: [
@@ -54,7 +54,7 @@ export default {
     }
   },
   async asyncData({ $content, params }) {
-    const articles = await $content('articles')
+    const articles = await $content('blog')
         .only(['title', 'description', 'slug'])
         .sortBy('createdAt', 'asc')
         .fetch()
