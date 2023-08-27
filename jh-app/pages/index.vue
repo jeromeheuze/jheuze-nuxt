@@ -88,36 +88,28 @@
           <!-- Project 3 Row -->
           <div class="row justify-content-center no-gutters mb-pro">
             <div class="col-lg-6">
-              <a href="https://sedo.com/search/?member=a715c85c5f07456a827402a6dc38dec09a0ce556" target="_blank"><img class="img-fluid" src="/img/bg-mashweb.jpg" alt=""></a>
+              <img class="img-fluid" src="/img/bg-mashweb.jpg" alt="">
             </div>
             <div class="col-lg-6 order-lg-first">
               <div class="featured-text text-center h-100 project">
                 <div class="d-flex h-100">
                   <div class="project-text w-100 my-auto text-center text-lg-right">
-                    <h4 class="text-white">Domains for Sale</h4>
-                    <p class="mb-0 text-white-50">
-                      <a target="_blank" href="https://sedo.com/search/?member=a715c85c5f07456a827402a6dc38dec09a0ce556">Purchase them by visiting each url:</a>
-                    </p>
+                    <h4 class="text-white">Other Websites I own</h4>
                     <ul style="margin-top: 1rem;">
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=24hlessons.com&origin=domaindetails">24hlessons.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=avatarkyc.com&origin=domaindetails">avatarkyc.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=satoshicrate.com&origin=domaindetails">satoshicrate.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=earth2forkids.com&origin=domaindetails">earth2forkids.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=earth2resorts.com&origin=domaindetails">earth2resorts.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=nftgametracker.com&origin=domaindetails">nftgametracker.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=earth2landlord.com&origin=domaindetails">earth2landlord.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=earth2architect.com&origin=domaindetails">earth2architect.com</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=earth2cc.org&origin=domaindetails">earth2cc.org</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=e2.live&origin=domaindetails">e2.live</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=boinc.click&origin=domaindetails">boinc.click</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=weiss.cards&origin=domaindetails">weiss.cards</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=e2.land&origin=domaindetails">e2.land</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=e2.university&origin=domaindetails">e2.university</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=indiegame.network&origin=domaindetails">indiegame.network</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=e2ads.network&origin=domaindetails">e2ads.network</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=metaseo.expert&origin=domaindetails">metaseo.expert</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=jamstackhosting.reviews&origin=domaindetails">jamstackhosting.reviews</a></li>
-                      <li><a target="_blank" href="https://sedo.com/search/details/?domain=free-one-hour-lessons.com&origin=domaindetails">free-one-hour-lessons.com</a></li>
+                      <li><a target="_blank" href="https://academialore.com">academialore.com</a></li>
+                      <li><a target="_blank" href="https://e2.university">e2.university</a></li>
+                      <li><a target="_blank" href="https://entropia.university">entropia.university</a></li>
+                      <li><a target="_blank" href="https://entropiamarket.com">entropiamarket.com</a></li>
+                      <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a></li>
+                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a></li>
+                      <li><a target="_blank" href="https://nucmining.com">nucmining.com</a></li>
+                      <li><a target="_blank" href="https://openknowledge.space">openknowledge.space</a></li>
+                      <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a></li>
+                      <li><a target="_blank" href="https://webdevmastery.com">webdevmastery.com</a></li>
+                      <li><a target="_blank" href="https://spaceship-adventure-park.com">spaceship-adventure-park.com</a></li>
+                      <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a></li>
+                      <li><a target="_blank" href="https://earth2rentals.com">earth2rentals.com</a></li>
+                      <li><a target="_blank" href="https://e2epls.com">e2epls.com</a></li>
                     </ul>
                   </div>
                 </div>
@@ -142,10 +134,6 @@
                       <li>
                         <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a>
                         &bull; <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link>
-                      </li>
-                      <li>
-                        <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">Button Set - CSS3 and SVG for sale</a>
-                        &bull; <nuxt-link to="/codester/button-set-css3-and-svg/">Preview</nuxt-link>
                       </li>
                     </ul>
                   </div>
