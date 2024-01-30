@@ -135,6 +135,10 @@
                         <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a>
                         &bull; <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link>
                       </li>
+                      <li>
+                        <a href="https://heuzeproductions.gumroad.com/l/inspire-template-html-single-page" target="_blank">Inspire Template - HTML - Single Page for sale</a>
+                        &bull; <a href="https://boisterous-yeot-25ab09.netlify.app" target="_blank">Preview</a>
+                      </li>
                     </ul>
                   </div>
                 </div>
