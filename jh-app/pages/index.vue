@@ -28,15 +28,6 @@
             </div>
             <div class="col-xl-6 col-lg-6">
               <div class="featured-text text-center text-lg-left">
-                <h4>Web Properties</h4>
-                <p class="text-black-50 mb-0">I maintain and own several websites as follows:</p>
-                <ul style="margin-top: 1rem;">
-                  <li><a href="https://heuzeproductions.com/" target="_blank">Heuze Productions</a> (Indie Game Studio)</li>
-                  <li><a href="https://e2production.com/" target="_blank">E2Production - Virtual businesses in Earth2.io</a></li>
-                  <li><a href="https://thesustainabledentist.com/" target="_blank">The Sustainable Dentist</a></li>
-                  <li><a href="https://entropiamarket.com/" target="_blank">Entropia Market</a> (Entropia related)</li>
-                  <li><a href="https://entropiahub.com/" target="_blank">Entropia Hub</a> (Entropia related)</li>
-                </ul>
                 <h4>Virtual Estates &amp; Digital Investments</h4>
                 <p class="text-black-50 mb-0">I own in-game estates as investment:</p>
                 <ul style="margin-top: 1rem;">
