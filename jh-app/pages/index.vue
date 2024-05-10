@@ -41,7 +41,7 @@
                 <p class="text-black-50 mb-0">I own in-game estates as investment:</p>
                 <ul style="margin-top: 1rem;">
                   <li><a href="https://www.entropiauniverse.com" target="_blank">Entropia Universe</a> – the Sci-Fi MMORPG, Multi-World, Real Cash Economy Experience.</li>
-                  <li><a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">Earth 2</a> - 7.5% promo code - e2prod</li>
+                  <li><a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">Earth 2</a> - 7.5% promo code - e2japan</li>
                 </ul>
               </div>
             </div>
@@ -96,49 +96,30 @@
                   <div class="project-text w-100 my-auto text-center text-lg-right">
                     <h4 class="text-white">Other Websites I own</h4>
                     <ul style="margin-top: 1rem;">
+                      <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a></li>
                       <li><a target="_blank" href="https://academialore.com">academialore.com</a></li>
+                      <li><a target="_blank" href="https://bookfairytales.com">bookfairytales.com</a></li>
                       <li><a target="_blank" href="https://e2.university">e2.university</a></li>
-                      <li><a target="_blank" href="https://entropia.university">entropia.university</a></li>
-                      <li><a target="_blank" href="https://entropiamarket.com">entropiamarket.com</a></li>
-                      <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a></li>
-                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a></li>
-                      <li><a target="_blank" href="https://nucmining.com">nucmining.com</a></li>
-                      <li><a target="_blank" href="https://openknowledge.space">openknowledge.space</a></li>
-                      <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a></li>
-                      <li><a target="_blank" href="https://webdevmastery.com">webdevmastery.com</a></li>
-                      <li><a target="_blank" href="https://spaceship-adventure-park.com">spaceship-adventure-park.com</a></li>
-                      <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a></li>
-                      <li><a target="_blank" href="https://earth2rentals.com">earth2rentals.com</a></li>
                       <li><a target="_blank" href="https://e2epls.com">e2epls.com</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Project 4 Row -->
-          <div class="row justify-content-center no-gutters mb-pro">
-            <div class="col-lg-6">
-              <nuxt-link to="/codester/"><img class="img-fluid" src="/img/bg-mashweb.jpg" alt=""></nuxt-link>
-            </div>
-            <div class="col-lg-6 order-lg-first">
-              <div class="featured-text text-center h-100 project">
-                <div class="d-flex h-100">
-                  <div class="project-text w-100 my-auto text-center text-lg-right">
-                    <h4 class="text-white">Templates for Sale</h4>
-                    <p class="mb-0 text-white-50">
-                      Purchase them by visiting each url:
-                    </p>
-                    <ul style="margin-top: 1rem;">
-                      <li>
-                        <a href="https://www.codester.com/items/39438/yellowcake-ui-theme" target="_blank">YellowCake UI Theme - UI kit for sale</a>
-                        &bull; <nuxt-link to="/codester/ui-yellowcake/">Preview</nuxt-link>
-                      </li>
-                      <li>
-                        <a href="https://heuzeproductions.gumroad.com/l/inspire-template-html-single-page" target="_blank">Inspire Template - HTML - Single Page for sale</a>
-                        &bull; <a href="https://boisterous-yeot-25ab09.netlify.app" target="_blank">Preview</a>
-                      </li>
+                      <li><a target="_blank" href="https://e2japan.com">e2japan.com</a></li>
+                      <li><a target="_blank" href="https://e2production.com">e2production.com</a></li>
+                      <li><a target="_blank" href="https://e2production.com">e2production.com</a></li>
+                      <li><a target="_blank" href="https://entropia.estate">entropia.estate</a></li>
+                      <li><a target="_blank" href="https://entropiahub.com">entropiahub.com</a></li>
+                      <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a></li>
+                      <li><a target="_blank" href="https://formly.pro">formly.pro</a></li>
+                      <li><a target="_blank" href="https://gameassets.reviews">gameassets.reviews</a></li>
+                      <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a></li>
+                      <li><a target="_blank" href="https://geolocationalmetaverse.com">geolocationalmetaverse.com</a></li>
+                      <li><a target="_blank" href="https://heuzeproductions.com">heuzeproductions.com</a></li>
+                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a></li>
+                      <li><a target="_blank" href="https://learndefold.com">learndefold.com</a></li>
+                      <li><a target="_blank" href="https://learnpixijs.com">learnpixijs.com</a></li>
+                      <li><a target="_blank" href="https://mathk12.tools">mathk12.tools</a></li>
+                      <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a></li>
+                      <li><a target="_blank" href="https://rpi123.com">rpi123.com</a></li>
+                      <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a></li>
+                      <li><a target="_blank" href="https://sukarei-jewelry.com">sukarei-jewelry.com</a></li>
                     </ul>
                   </div>
                 </div>
