@@ -102,7 +102,7 @@
                       <li><a target="_blank" href="https://heuzeproductions.com">heuzeproductions.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> TBD</li>
                       <li><a target="_blank" href="https://mathk12.tools">mathk12.tools</a> TBD</li>
-                      <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a> TBD</li>
+                      <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a> NuxtJS 3.x / Netlify / Blog</li>
                       <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a> NuxtJS 3.x / Netlify</li>
                       <li><a target="_blank" href="https://sukarei-jewelry.com">sukarei-jewelry.com</a> TBD</li>
                     </ul>
