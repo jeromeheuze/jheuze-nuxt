@@ -17,7 +17,7 @@ export default {
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { name: 'google-site-verification', content: '6VcT_YNWl4AlVZ8ltUpKZT7Dwu_1dvHhc3c0Kb6PkoI' },
             { hid: 'description', name: 'description', content: 'Indie game developer, Front End Developer, Crypto mining and trading enthusiast!' },
-            { name: "author", content: "Jerome Heuze" }
+            { name: "author", content: "Jerome Heuze" },
             // Twitter
             {
                 hid: 'twitter:card',
