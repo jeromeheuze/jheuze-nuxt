@@ -101,13 +101,14 @@
                       <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a> NuxtJS 3.x / Netlify / Blog</li>
                       <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a> NuxtJS 3.x / Netlify</li>
                     </ul>
-                    <h4 class="text-white">Websites: [IN DEVELOPMENT]</h4>
+                    <h4 class="text-white">Websites: [Under DEVELOPMENT]</h4>
                     <ul style="margin-top: 1rem;">
-                      <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a> PHP - HTML/CSS - Unity + Defold</li>
-                      <li><a target="_blank" href="https://academialore.com">academialore.com</a> TBD -- Defold 3D Game</li>
+                      <li><a target="_blank" href="https://spaceshipadventures.com">spaceshipadventures.com</a> PHP - HTML/CSS - Unity / Defold / Construction</li>
+                      <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a> PHP - HTML/CSS - Unity / Defold</li>
+                      <li><a target="_blank" href="https://academialore.com">academialore.com</a> TBD -- Unity / Defold - 3D Game</li>
                       <li><a target="_blank" href="https://formly.pro">formly.pro</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS - MySQLi</li>
-                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> TBD -- Defold 2D Game</li>
+                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> TBD -- Unity / Defold 2D Game</li>
                       <li><a target="_blank" href="https://sukarei-jewelry.com">sukarei-jewelry.com</a> TBD</li>
                     </ul>
                   </div>
