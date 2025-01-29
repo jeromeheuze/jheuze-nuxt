@@ -96,7 +96,6 @@
                       <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://formly.pro">formly.pro</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS - MySQLi</li>
-                      <li><a target="_blank" href="https://geolocationalmetaverse.com">geolocationalmetaverse.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://heuzeproductions.com">heuzeproductions.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a> NuxtJS 3.x / Netlify / Blog</li>
                       <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a> NuxtJS 3.x / Netlify</li>
