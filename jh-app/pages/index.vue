@@ -91,21 +91,19 @@
                       <li><a target="_blank" href="https://forum.e2.university">Forum e2.university</a> PHP - HTML/CSS/Laravel</li>
                       <li><a target="_blank" href="https://e2japan.com">e2japan.com</a> PHP - HTML/CSS/MySQLi/MapBox Integration</li>
                       <li><a target="_blank" href="https://e2production.com">e2production.com</a> PHP - HTML/CSS</li>
-                      <li><a target="_blank" href="https://entropia.estate">entropia.estate</a> NuxtJS 3.x / Netlify / Supabase</li>
+                      <li><a target="_blank" href="https://e2.rent">e2.rent</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://entropiahub.com">entropiahub.com</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a> PHP - HTML/CSS</li>
-                      <li><a target="_blank" href="https://formly.pro">formly.pro</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://heuzeproductions.com">heuzeproductions.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://openbooktutorials.com">openbooktutorials.com</a> NuxtJS 3.x / Netlify / Blog</li>
                       <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a> NuxtJS 3.x / Netlify</li>
+                      <li><a target="_blank" href="https://academialore.com">academialore.com</a> Casual Games - PHP - HTML / CSS</li>
                     </ul>
                     <h4 class="text-white">Websites: [Under DEVELOPMENT]</h4>
                     <ul style="margin-top: 1rem;">
                       <li><a target="_blank" href="https://spaceshipadventures.com">spaceshipadventures.com</a> Space Game - Unreal / RPC / SBC</li>
                       <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a> PHP - HTML/CSS - Unity / Defold</li>
-                      <li><a target="_blank" href="https://academialore.com">academialore.com</a> TBD -- Unity / Defold - 3D Game</li>
-                      <li><a target="_blank" href="https://formly.pro">formly.pro</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS - MySQLi</li>
                       <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> TBD -- Unity / Defold 2D Game</li>
                       <li><a target="_blank" href="https://sukarei-jewelry.com">sukarei-jewelry.com</a> TBD</li>
