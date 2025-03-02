@@ -18,7 +18,7 @@
             <span class="tag">
               {{ tag }}
             </span>
-          
+
         </span>
         <nuxt-content class="nuxt-content" :document="article" />
       </article>
