@@ -14,11 +14,11 @@
         <div class="crumbs"><nuxt-link to="/blog/">Blog</nuxt-link>&nbsp;&bull;&nbsp; {{ article.title }}</div>
       <article>
         <span class="tags" v-for="tag in article.tags" :key="tag">
-          <NuxtLink :to="`/blog/tag/${tag}`">
+
             <span class="tag">
               {{ tag }}
             </span>
-          </NuxtLink>
+          
         </span>
         <nuxt-content class="nuxt-content" :document="article" />
       </article>
