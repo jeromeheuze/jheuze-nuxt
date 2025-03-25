@@ -87,26 +87,26 @@
                   <div class="project-text w-100 my-auto text-center text-lg-right">
                     <h4 class="text-white">Other Websites I own and maintain: [RELEASED]</h4>
                     <ul style="margin-top: 1rem;">
-                      <li><a target="_blank" href="https://e2.university">e2.university</a> PHP - HTML/CSS</li>
-                      <li><a target="_blank" href="https://forum.e2.university">Forum e2.university</a> PHP - HTML/CSS/Laravel</li>
-                      <li><a target="_blank" href="https://e2japan.com">e2japan.com</a> PHP - HTML/CSS/MySQLi/MapBox Integration</li>
-                      <li><a target="_blank" href="https://e2production.com">e2production.com</a> PHP - HTML/CSS</li>
+                      <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a> PHP - HTML/CSS - Unity 6 + Godot 4.4 + Defold 1.97 - Itch.io</li>
+                      <li><a target="_blank" href="https://e2.university">e2.university</a> PHP - HTML/CSS/MySQLi/Stripe API</li>
+                      <li><a target="_blank" href="https://e2japan.com">e2japan.com</a> PHP - HTML/CSS/MySQLi/MapBox Integration/Stripe API</li>
+                      <li><a target="_blank" href="https://e2production.com">e2production.com</a> PHP - HTML/CSS/WebTools</li>
                       <li><a target="_blank" href="https://e2.rent">e2.rent</a> PHP - HTML/CSS</li>
-                      <li><a target="_blank" href="https://entropiahub.com">entropiahub.com</a> PHP - HTML/CSS - MySQLi</li>
-                      <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a> PHP - HTML/CSS</li>
-                      <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS - MySQLi</li>
+                      <li><a target="_blank" href="https://entropiahub.com">entropiahub.com</a> PHP - HTML/CSS/MySQLi</li>
+                      <li><a target="_blank" href="https://foma-asteroid.com">foma-asteroid.com</a> PHP - HTML/CSS/MySQLi</li>
+                      <li><a target="_blank" href="https://gddmaker.com">gddmaker.com</a> PHP - HTML/CSS/MySQLi</li>
                       <li><a target="_blank" href="https://heuzeproductions.com">heuzeproductions.com</a> PHP - HTML/CSS</li>
                       <li><a target="_blank" href="https://spacescience.degree">spacescience.degree</a> NuxtJS 3.x / Netlify</li>
                       <li><a target="_blank" href="https://sukarei-jewelry.com">sukarei-jewelry.com</a> TBD</li>
                     </ul>
                     <h4 class="text-white">Websites: [Under DEVELOPMENT]</h4>
                     <ul style="margin-top: 1rem;">
-                      <li><a target="_blank" href="https://spaceshipadventures.com">spaceshipadventures.com</a> Space Game - Unity 6 / RPC / Raspberry Pi</li>
-                      <li><a target="_blank" href="https://10kgame.studio">10kgame.studio</a> PHP - HTML/CSS - Unity 6 + Godot 4.4 + Defold 1.97 - Itch.io</li>
+                      <li><a target="_blank" href="https://spaceshipadventures.com">spaceshipadventures.com</a> Immersive Game - Unity / RPC / Raspberry Pi</li>
                       <li><a target="_blank" href="https://academialore.com">academialore.com</a> Godot -- MMO LearningRPG</li>
-                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> Godot -- 2D Pixel Metaverse</li>
+                      <li><a target="_blank" href="https://kohibou.com">kohibou.com</a> Godot/Unity/Defold -- 2D Pixel Metaverse</li>
                       <li><a target="_blank" href="https://videogameguide.ai">videogameguide.ai</a> TBD</li>
-                      <li><a target="_blank" href="https://IndieDev.games">IndieDev.games</a> TBD</li>
+                      <li><a target="_blank" href="https://indiedev.games">IndieDev.games</a> PHP - HTML/CSS/MySQL/User Generated Content</li>
+                      <li><a target="_blank" href="https://bookfairytales.com">Bookfairytales.com</a> => PHP - HTML/CSS - WebXR - Wonderland Engine or Unity 6.x</li>
                     </ul>
                   </div>
                 </div>
